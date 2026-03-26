@@ -1,0 +1,6 @@
+name: CrossRealmGate
+version: 1.0.0
+main: me.crossrealmgate.GatePlugin
+api-version: 1.21
+description: Puerta de autenticación para jugadores Bedrock
+author: soyadrianyt001
